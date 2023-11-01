@@ -1,4 +1,4 @@
-![@1](https://github.com/OasisAkari/OasisAkari/assets/31803608/7e2ddf79-7a31-4dac-acc4-b959e503dc4a)
+![@1](https://raw.githubusercontent.com/OasisAkari/OasisAkari/main/1.gif)
 <!--
 ### Hi there 👋
 
