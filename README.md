@@ -9,7 +9,7 @@ I dunno why I am in RMA since actually I am a fox, welp.
 
 ### Doing
 
-1. Maintenance [AkariBot](https://github.com/Teahouse-Studios/akari-bot)
+1. Maintenance [AkariBot](https://github.com/Teahouse-Studios/akari-bot) project
 2. Maintenance a bunch of projects Simp-Chinese translations
 3. Draw some stuff
 4. Play stupid
