@@ -1,4 +1,5 @@
-![@1](https://raw.githubusercontent.com/OasisAkari/OasisAkari/main/1.gif)
+![@1](https://raw.githubusercontent.com/OasisAkari/OasisAkari/main/1.webp)
+
 <!--
 ### Hi there 👋
 
