@@ -5,7 +5,7 @@
 
 I'm OasisAkari, a fool student of Rabbit Magic Academy. Nothing special.
 
-I dunno why I am in RMA since actually I am a Fox, welp.
+I dunno why I am in RMA since actually I am a fox, welp.
 
 ### Doing
 
