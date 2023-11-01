@@ -1,6 +1,7 @@
-wtf why u r reading this 
+![@1](https://github.com/OasisAkari/OasisAkari/assets/31803608/7e2ddf79-7a31-4dac-acc4-b959e503dc4a)
 <!--
 ### Hi there 👋
+
 
 **OasisAkari/OasisAkari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
