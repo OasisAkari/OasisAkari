@@ -1,19 +1,17 @@
-<img align="middle" alt="WEBP" src="https://raw.githubusercontent.com/OasisAkari/OasisAkari/main/1.webp" width="600"/>
+<img align="right" alt="WEBP" src="https://raw.githubusercontent.com/OasisAkari/OasisAkari/main/1-resize.webp" width="300"/>
 
-<!--
 ### Hi there 👋
 
 
-**OasisAkari/OasisAkari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm OasisAkari, a fool student of Rabbit Magic Academy. Nothing special.
 
-Here are some ideas to get you started:
+I dunno why I am in RMA since actually I am a Fox, well thats it then.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Doing
+
+1. Maintenance [AkariBot](https://github.com/Teahouse-Studios/akari-bot)
+2. Maintenance a bunch of projects Simp-Chinese translations
+3. Draw some stuff
+4. Play stupid
+
+That's all.
