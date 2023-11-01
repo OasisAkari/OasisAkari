@@ -1,4 +1,4 @@
-![@1](https://raw.githubusercontent.com/OasisAkari/OasisAkari/main/1.webp)
+<img align="middle" alt="WEBP" src="https://raw.githubusercontent.com/OasisAkari/OasisAkari/main/1.webp" width="600"/>
 
 <!--
 ### Hi there 👋
