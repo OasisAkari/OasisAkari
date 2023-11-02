@@ -1,4 +1,4 @@
-<img align="right" alt="WEBP" src="https://raw.githubusercontent.com/OasisAkari/OasisAkari/main/1-300.webp" width="300"/>
+<img align="right" alt="WEBP" src="https://raw.githubusercontent.com/OasisAkari/OasisAkari/main/1-350.webp" width="300"/>
 
 ### Hi there 👋
 
